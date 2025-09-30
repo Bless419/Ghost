@@ -19,6 +19,6 @@ Elite-level OSINT & reconnaissance toolkit for Termux
 ```bash
 pkg install python git
 pip install requests
-git clone https://github.com/YOUR_USERNAME/ghost-recon.git
+git clone https://github.com/Bless419/Ghost.git
 cd ghost-recon
 python ghost_recon.py
